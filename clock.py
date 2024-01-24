@@ -25,5 +25,5 @@ lbl = Label(root, font=('calibri', 40, 'bold'),
 #Set Allignment of clock in tkinter
 lbl.pack(anchor='center')
 time()
- 
+#Calling The Main Loop
 mainloop()
